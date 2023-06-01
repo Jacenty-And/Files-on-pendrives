@@ -14,25 +14,33 @@ In the first line write a number - total number of copied files. In the next two
 
 #### Example
 Input:  
+```
 4 7  
 323 1  
 10 2  
 87438 5  
-99 6  
+99 6
+```
 
-Output:  
+Output:
+```
 3  
 1: 323 10  
 2: 87438  
+```
 
 or  
 
+```
 4  
 1: 323 99  
 2: 87438 10  
+```
 
 or  
 
+```
 3  
 1: 323  
 2: 87438 10  
+```
